@@ -39,7 +39,7 @@ const App = () => {
         </Form.Item>
         <Form.Item label="Select">
           <Select>
-            <Select.Option value="demo">Demo</Select.Option>
+            <Select.Option value="demo">小龙</Select.Option>
           </Select>
         </Form.Item>
         <Form.Item label="TreeSelect">
